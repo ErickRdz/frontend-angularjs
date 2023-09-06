@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frontendangularjs-dev-134323-authRole",
+      "UnauthRoleArn": "arn:aws:iam::756104182676:role/amplify-frontendangularjs-dev-134323-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::756104182676:role/amplify-frontendangularjs-dev-134323-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-frontendangularjs-dev-134323-deployment",
+      "UnauthRoleName": "amplify-frontendangularjs-dev-134323-unauthRole",
+      "StackName": "amplify-frontendangularjs-dev-134323",
+      "StackId": "arn:aws:cloudformation:us-west-2:756104182676:stack/amplify-frontendangularjs-dev-134323/4f233a80-4b5b-11ee-8356-0affad6a80d5",
+      "AmplifyAppId": "d5jdq6lg8l0od"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frontendangularjs-prod-140842-authRole",
+      "UnauthRoleArn": "arn:aws:iam::756104182676:role/amplify-frontendangularjs-prod-140842-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::756104182676:role/amplify-frontendangularjs-prod-140842-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-frontendangularjs-prod-140842-deployment",
+      "UnauthRoleName": "amplify-frontendangularjs-prod-140842-unauthRole",
+      "StackName": "amplify-frontendangularjs-prod-140842",
+      "StackId": "arn:aws:cloudformation:us-west-2:756104182676:stack/amplify-frontendangularjs-prod-140842/d95cf120-4b5e-11ee-a60e-0620a9bce8ef",
+      "AmplifyAppId": "doy81y3z6wcqq"
+    }
+  }
+}
